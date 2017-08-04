@@ -4,4 +4,9 @@ Bla Bla Bla
 Last words .......
 
 ex1 
-ex2
+ex2 
+
+//feature 
+var1 
+var2
+...
